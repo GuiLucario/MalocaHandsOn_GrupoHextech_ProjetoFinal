@@ -29,7 +29,7 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 - A funcionalidade do cartão.  
 - E uma das qualdiades que é o atendimento rápido e eficiente.  
 
-![Big Picture](BigPicture.jpg)  
+![Big Picture](Big%20Picture.jpg)  
 
 ---
 
