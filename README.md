@@ -16,7 +16,7 @@ Este projeto, desenvolvido no contexto do *Projeto Maloca das iCoisas*, tem como
 ## Esquema de Conexão  
 O circuito integra o microcontrolador ESP32, o módulo RFID PN532 e os cartões RFID. O diagrama esquemático foi desenvolvido para facilitar a compreensão da conexão entre os componentes.  
 
-![Esquema de Conexão](Esquema%20de%20Conexão.png)  
+![Esquema de Conexão](Aula%2005/Esquema%20de%20Conexão.png)  
 
 Link do projeto feito no Wokwi
 
@@ -30,7 +30,7 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 - A funcionalidade do cartão.  
 - E uma das qualdiades que é o atendimento rápido e eficiente.  
 
-![Big Picture](Big%20Picture.jpg)  
+![Big Picture](Aula%2005/Big%20Picture.jpg)  
 
 ---
 
