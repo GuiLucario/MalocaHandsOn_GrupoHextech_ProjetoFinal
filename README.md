@@ -34,19 +34,6 @@ A *Big Picture* do projeto apresenta os objetivos principais, destacando:
 
 ---
 
-## Melhorias Implementadas  
-- *Integração do RFID PN532 com o ESP32:*  
-  - Leitura e gravação de dados médicos nos cartões RFID.  
-  - Conexão Wi-Fi configurável para sincronização remota.  
-  
-- *Exibição de mensagens no monitor serial:*  
-  - "Cartão detectado" quando o RFID identifica um cartão.  
-  - "Sincronização bem-sucedida" após o envio de dados ao servidor.  
-  - "Erro de conexão" em caso de falha na rede.  
-
-
----
-
 ## Tecnologias Utilizadas  
 - *ESP32* - Microcontrolador principal.  
 - *RFID PN532* - Módulo para leitura e gravação de cartões RFID.  
